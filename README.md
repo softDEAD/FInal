@@ -28,3 +28,9 @@ toursea
 Has:
 ====
 * user login
+* Google maps and yelp? Recommend places based on interests
+* saving tours
+* modifying tours
+* tours tell length it will take and if the location is closed.
+* tour cost
+* sharing tours
