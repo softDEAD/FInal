@@ -14,3 +14,17 @@ Pick landscapes and places and trip time and cost and fastest way mapped etc.
 Advertising landmarks.
 
 Not as well know places, people do reviews for it. Facebook friends and connect and share tours.
+
+toursea
+###
+* APIs 
+ * Google Maps
+* Flask      - 
+* Database   - 
+* JavaScript - 
+ * geolocation
+* Html & CSS -
+
+Has:
+####
+* user login
